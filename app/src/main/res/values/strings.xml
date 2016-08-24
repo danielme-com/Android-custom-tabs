@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Custom Tabs Demo</string>
+    <string name="open">Open Tab</string>
+    <string name="menu1">Menu Entry 1</string>
+    <string name="menu2">Menu Entry 2</string>
+    <string name="action">Action Button</string>
+</resources>
